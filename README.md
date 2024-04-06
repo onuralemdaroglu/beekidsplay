@@ -12,7 +12,5 @@ This is the graduation project I prepared for the Institute Istanbul İSMEK Info
 
 ![BeeKids-Play_Oyun_Atolyelerimiz](https://user-images.githubusercontent.com/83334765/172359539-4663d8be-03d8-4351-9507-f902fc87d054.png)
 
-![BeeKids-Play_Ekibimiz](https://user-images.githubusercontent.com/83334765/172359562-ea5d4baf-d821-4b94-a14a-368f6b629346.png)
-
 ![BeeKids-Play_iletisim](https://user-images.githubusercontent.com/83334765/172359576-e1c94ddc-e66f-4042-a4b2-41cacf46a922.png)
 
